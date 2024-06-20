@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  Hello World
+  Hello World from project idx
 </template>
 
 <style scoped>
